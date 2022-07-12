@@ -1,0 +1,4 @@
+# Project exclude paths
+/common/target/
+/notify/target/
+/user/target/
